@@ -1,0 +1,30 @@
+<Solution>
+  <Folder Name="/Bot.Discord/" />
+  <Folder Name="/Bot.Discord/src/">
+    <Project Path="Bot.Discord/src/Bot.Discord.csproj" />
+  </Folder>
+  <Folder Name="/Bot.Telegram/" />
+  <Folder Name="/Bot.Telegram/src/">
+    <Project Path="Bot.Telegram/src/Bot.Telegram.csproj" />
+  </Folder>
+  <Folder Name="/MCP/" />
+  <Folder Name="/MCP/src/">
+    <Project Path="MCP/src/MCP.csproj" />
+  </Folder>
+  <Folder Name="/Transport.Http/" />
+  <Folder Name="/Transport.Http/src/">
+    <Project Path="Transport.Http/src/Transport.Http.csproj" />
+  </Folder>
+  <Folder Name="/Transport.MQTT/" />
+  <Folder Name="/Transport.MQTT/src/">
+    <Project Path="Transport.MQTT/src/Transport.MQTT.csproj" />
+  </Folder>
+  <Folder Name="/Transport.SignalR/" />
+  <Folder Name="/Transport.SignalR/src/">
+    <Project Path="Transport.SignalR/src/Transport.SignalR.csproj" />
+  </Folder>
+  <Folder Name="/Transport.UDP/" />
+  <Folder Name="/Transport.UDP/src/">
+    <Project Path="Transport.UDP/src/Transport.UDP.csproj" />
+  </Folder>
+</Solution>

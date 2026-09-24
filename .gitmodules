@@ -1,0 +1,21 @@
+[submodule "Bot.Discord"]
+	path = Bot.Discord
+	url = https://github.com/YouAnd-I/Bot.Discord
+[submodule "Bot.Telegram"]
+	path = Bot.Telegram
+	url = https://github.com/YouAnd-I/Bot.Telegram
+[submodule "MCP"]
+	path = MCP
+	url = https://github.com/YouAnd-I/MCP
+[submodule "Transport.Http"]
+	path = Transport.Http
+	url = https://github.com/YouAnd-I/Transport.Http
+[submodule "Transport.MQTT"]
+	path = Transport.MQTT
+	url = https://github.com/YouAnd-I/Transport.MQTT
+[submodule "Transport.SignalR"]
+	path = Transport.SignalR
+	url = https://github.com/YouAnd-I/Transport.SignalR
+[submodule "Transport.UDP"]
+	path = Transport.UDP
+	url = https://github.com/YouAnd-I/Transport.UDP
