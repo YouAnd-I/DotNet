@@ -11,6 +11,10 @@
   <Folder Name="/MCP/src/">
     <Project Path="MCP/src/MCP.csproj" />
   </Folder>
+  <Folder Name="/SpaceTimeDB.Identity/" />
+  <Folder Name="/SpaceTimeDB.Identity/src/">
+    <Project Path="SpaceTimeDB.Identity/src/SpaceTimeDB.Identity.csproj" />
+  </Folder>
   <Folder Name="/Transport.Http/" />
   <Folder Name="/Transport.Http/src/">
     <Project Path="Transport.Http/src/Transport.Http.csproj" />

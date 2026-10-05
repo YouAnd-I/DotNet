@@ -19,3 +19,6 @@
 [submodule "Transport.UDP"]
 	path = Transport.UDP
 	url = https://github.com/YouAnd-I/Transport.UDP
+[submodule "SpaceTimeDB.Identity"]
+	path = SpaceTimeDB.Identity
+	url = https://github.com/YouAnd-I/SpaceTimeDB.Identity
